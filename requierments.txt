@@ -1,0 +1,13 @@
+warnings
+
+# Core Data Science & ML Stack
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Model Serialization
+pickle
